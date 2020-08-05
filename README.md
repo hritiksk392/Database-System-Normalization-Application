@@ -10,7 +10,7 @@ The application has been made using NetBeans IDE 8.2 and written entirely in Jav
 * Hritik Singh Kushwah
 * Bhavish Pahwa (https://github.com/bp-high)
 * Shubham Asopa (https://github.com/sammyasopa)
-* Smiket Barodia ()
+* Smiket Barodia (https://github.com/Smket99)
 
 ## Preview:
 Below is the preview of different functionalities of the application.
