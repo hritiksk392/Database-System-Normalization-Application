@@ -4,7 +4,7 @@
 A Java based GUI application that for a given set of Attributes and Functional Dependencies can identify candidate keys and check the highest normal form it satisfies.
 If the highest normal form is X it can decompose the given relation to satisfy X+1 Normal Form upto **BCNF Normal Form**.
 
-The source code for the project can be found in the src/mymod1 directory. The source code has been appropriately commented wherever found necessary. 
+The application has been made using NetBeans IDE 8.2 and written entirely in Java (v. 1.8.0_231).The source code for the project can be found in the src/mymod1 directory. The source code has been appropriately commented wherever found necessary. 
 
 ## Team Members
 * Hritik Singh Kushwah
